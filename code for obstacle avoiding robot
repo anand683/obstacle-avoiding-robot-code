@@ -1,4 +1,4 @@
-# obstacle-avoiding-robot-code-
+# obstacle-avoiding-robot-code
 
 #include <AFMotor.h>
 AF_DCMotor motor(3);
